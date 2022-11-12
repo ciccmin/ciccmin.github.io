@@ -62,13 +62,11 @@ e-mail: minerva.ciccarese@helsinki.fi.
 
 ## Projects
 
-### [cmdline-course](https://github.com/ciccmin/cmdline-course.git), 
-fall 2022
+### [cmdline-course](https://github.com/ciccmin/cmdline-course.git), fall 2022
 
 A small project for the Command Line Tools for Linguists course, where various classical books are parsed to determine each book's word frequencies.
 
-### [ciccmin.github.io](https://github.com/ciccmin/ciccmin.github.io), 
-fall 2022
+### [ciccmin.github.io](https://github.com/ciccmin/ciccmin.github.io), fall 2022
 
 This website, also developed for the Command Line Tools for Linguists course. It gives the visitors a glimpse of my work and academic life.
 
