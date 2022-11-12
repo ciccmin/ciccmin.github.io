@@ -4,7 +4,10 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> I am a second year student at University of Helsinki, majoring in linguistics and studying for a minor degree in computer science. Learning languages has been my passion ever since I was a child, and realising I am not particularly interested in the philology of one single language, I decided to apply for a major degree in general linguistics. On my fresher year I discovered the field of language technology, which has further fed my interest in coding and has led me to seek a minor degree in computer science.
+<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> I am a second year student at University of Helsinki, majoring in linguistics and studying for a minor degree in computer science. Learning languages has been my passion ever since I was a child, and realising I am not particularly interested in the philology of one single language, I decided to apply for a major degree in general linguistics.
+
+On my first year in university I discovered the field of language technology, which has further fed my interest in coding and has led me to seek a minor degree in computer science.
+
 My hobbies include reading, playing violin and playing videogames. I do enjoy physical activities as well, such as taking walks and occasionally skateboarding (or at least pretending to do the latter — I am still an amateur and like cruising around more than risking my life on the half-pipe)
 
 ## Find me on
