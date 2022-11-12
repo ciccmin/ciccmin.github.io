@@ -20,7 +20,7 @@ e-mail: minerva.ciccarese@helsinki.fi.
 
 ## Courses I've Taken
 
-#Linguistics Courses
+# Linguistics Courses
 
 [Introduction to General Linguistics and Phonetics](https://studies.helsinki.fi/courses/cu/hy-CU-118591680-2021-08-01/KIK-401/Introduction_to_General_Linguistics_and_Phonetics), fall 2021
 
@@ -42,17 +42,17 @@ e-mail: minerva.ciccarese@helsinki.fi.
 
 [Corpus Linguistics and Statistical Methods](https://studies.helsinki.fi/courses/cu/hy-CU-118591838-2021-08-01), fall 2022
 
-#Computer Science Courses
+# Computer Science Courses
 
 [Introduction to Programming](https://studies.helsinki.fi/courses/cu/hy-CU-118023867-2021-08-01/TKT10002/Introduction_to_Programming), fall 2022
 
-#Language Centre Courses
+# Language Centre Courses
 
 [Japanese for Beginners 1 through Blended Learning](https://studies.helsinki.fi/courses/cu/hy-CU-133160897-2022-08-01/KK-JAP002/Japanese_for_Beginners_1_through_Blended_Learning), fall 2021
 
 [Japanese for Begiiners 2 through Blended Learning](https://studies.helsinki.fi/courses/cu/hy-CU-133160934-2021-08-01/KK-JAP101/Japanese_for_Beginners_2_through_Blended_Learning_CEFR_A1_), spring 2022
 
-#Mandatory-for-all Courses
+# Mandatory-for-all Courses
 
 [Orientation Studies](https://studies.helsinki.fi/courses/cu/hy-CU-118010544-2021-08-01/HUM-001/Orientation_Studies), fall 2021
 
@@ -62,10 +62,12 @@ e-mail: minerva.ciccarese@helsinki.fi.
 
 ## Projects
 
-#[cmdline-course](https://github.com/ciccmin/cmdline-course.git), fall 2022
+# [cmdline-course](https://github.com/ciccmin/cmdline-course.git), fall 2022
+
 A small project for the Command Line Tools for Linguists course, where various classical books are parsed to determine each book's word frequencies.
 
-#[ciccmin.github.io](https://github.com/ciccmin/ciccmin.github.io), fall 2022
+# [ciccmin.github.io](https://github.com/ciccmin/ciccmin.github.io), fall 2022
+
 This website, also developed for the Command Line Tools for Linguists course. It gives the visitors a glimpse of my work and academic life.
 
 ## Misc. 
