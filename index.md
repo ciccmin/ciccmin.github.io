@@ -70,10 +70,11 @@ A small project for the Command Line Tools for Linguists course, where various c
 
 This website, also developed for the Command Line Tools for Linguists course. It gives the visitors a glimpse of my work and academic life.
 
-## Take a look at my [CV](/assets/documents/CV_2022.pdf)!
-
 ## Misc. 
 
 I have nothing of mine that I would particularly like to show, besides my [instagram account](https://www.instagram.com/ciccmin), perhaps.
 
 If you want to see something cooler, have a [skating cat](https://www.youtube.com/watch?v=vYyUb_MI7to).
+
+## Take a look at my [CV](/assets/documents/CV_2022.pdf)!
+
