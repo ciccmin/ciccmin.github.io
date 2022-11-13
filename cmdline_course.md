@@ -43,6 +43,9 @@ Spoiler alert: the best encoding to analyse finnish text corpora is UTF-8.
 
 We also learned to convert files from dos to unix with dos2unix and doing the opposite with unix2dos. Changing a file into unix converts its end of line from one with CRLF (carriage return line feed) terminator to a simple LF terminator. When viewing a text with less (a command that displays text files or command outputs) one can notice the difference between non-unix and unix format judging by the presence of a ^M symbol or lack thereof, as seen below.
 
+| non-unix format                                                                  | unix format                                                                      |
+| -------------------------------------------------------------------------------- |:--------------------------------------------------------------------------------:| 
+|<img src="assets/images/dos.png" alt="less view of file with a CRLF end of line" width="724" height="349"/>|<img src="assets/images/unix.png" alt="less view of file in unix format without CRLF end of line" width="724" height="349"/>|
 
 <div class="row">
      <div class="column">
