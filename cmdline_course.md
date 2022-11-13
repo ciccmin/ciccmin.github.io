@@ -1,5 +1,5 @@
 ---
-layout:default
+layout: default
 ---
 
 ## Command Line Course for Linguists
