@@ -47,15 +47,6 @@ We also learned to convert files from dos to unix with dos2unix and doing the op
 | -------------------------------------------------------------------------------- |:--------------------------------------------------------------------------------:| 
 |<img src="assets/images/dos.png" alt="less view of file with a CRLF end of line" width="724" height="349"/>|<img src="assets/images/unix.png" alt="less view of file in unix format without CRLF end of line" width="724" height="349"/>|
 
-<div class="row">
-     <div class="column">
-     	  <img src="assets/images/dos.png" alt="less view of file with a CRLF end of line" width="724" height="349"/>
-	  </div>
-     <div class="column">
-     	  <img src="assets/images/unix.png" alt="less view of file in unix format without CRLF end of line" width="724" height="349"/>
-	  </div>
-</div>
-
 When a file is in unix, we are able to process it for corpus processing with the help of the commands:
   * tr for transforming characters into others (allowing us to change all uppercase letters into lowercase so that the same word is not considered two different words just because of case sensitivity)
   * sort to sort words in alphabetical, numerical or their opposites' orders
