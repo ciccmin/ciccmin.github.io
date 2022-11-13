@@ -13,13 +13,13 @@ Aside from command line terms, students learned a bit of Python language as well
 #### Week 1: Introduction to Command Line Environments
 
 We got introduced to the command line environment, building confidence in using basic commands such as:
-⋅⋅* ls for listing contents of directories,
-⋅⋅* cd for moving across directories,
-⋅⋅* wget for downloading content from the internet,
-⋅⋅* mkdir and rmdir for respectively making and removing directories,
-⋅⋅* cp for copying and renaming files,
-⋅⋅* less for text displaying, and
-⋅⋅* emacs for text editing.
+  * ls for listing contents of directories,
+  * cd for moving across directories,
+  * wget for downloading content from the internet,
+  * mkdir and rmdir for respectively making and removing directories,
+  * cp for copying and renaming files,
+  * less for text displaying, and
+  * emacs for text editing.
 
 These felt like _a lot_ of new things to learn in one lesson, and I must admit I was mildly intimidated by it. However my interest for the subject was stronger than my fear to fail this course.
 
@@ -54,9 +54,9 @@ We also learned to convert files from dos to unix with dos2unix and doing the op
 </div>
 
 When a file is in unix, we are able to process it for corpus processing with the help of the commands:
-⋅⋅* tr for transforming characters into others (allowing us to change all uppercase letters into lowercase so that the same word is not considered two different words just because of case sensitivity)
-⋅⋅* sort to sort words in alphabetical, numerical or their opposites' orders
-⋅⋅* uniq for removing duplicate lines, ensuring that we have a word list with no repetitions
+  * tr for transforming characters into others (allowing us to change all uppercase letters into lowercase so that the same word is not considered two different words just because of case sensitivity)
+  * sort to sort words in alphabetical, numerical or their opposites' orders
+  * uniq for removing duplicate lines, ensuring that we have a word list with no repetitions
 
 Although this was interesting, I felt as if I didn't yet learn enough to make good use of the commands I had just learned. Luckily, the following week was...
 
