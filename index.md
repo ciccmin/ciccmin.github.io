@@ -42,15 +42,25 @@ e-mail: minerva.ciccarese@helsinki.fi.
 
 [Corpus Linguistics and Statistical Methods](https://studies.helsinki.fi/courses/cu/hy-CU-118591838-2021-08-01), fall 2022
 
+[Programming for Linguists](https://studies.helsinki.fi/courses/cu/hy-CU-117878680-2021-08-01/KIK-LG208/Programming_for_Linguists), fall 2022
+
+[Building Natural Language Processing Applications](https://studies.helsinki.fi/courses/cu/hy-CU-117878830-2021-08-01/KIK-LG211/Building_Natural_Language_Processing_Applications), spring 2023
+
+[Statistics for Linguists](https://studies.helsinki.fi/courses/cu/hy-CU-117878561-2021-08-01/KIK-LG207/Statistics_for_Linguists), spring 2023
+
 ### Computer Science Courses
 
 [Introduction to Programming](https://studies.helsinki.fi/courses/cu/hy-CU-118023867-2021-08-01/TKT10002/Introduction_to_Programming), fall 2022
+
+[Computer Organisation](https://studies.helsinki.fi/courses/cu/hy-CU-118024303-2021-08-01/TKT10005/Computer_Organization_I), fall 2022
 
 ### Language Centre Courses
 
 [Japanese for Beginners 1 through Blended Learning](https://studies.helsinki.fi/courses/cu/hy-CU-133160897-2022-08-01/KK-JAP002/Japanese_for_Beginners_1_through_Blended_Learning), fall 2021
 
 [Japanese for Begiiners 2 through Blended Learning](https://studies.helsinki.fi/courses/cu/hy-CU-133160934-2021-08-01/KK-JAP101/Japanese_for_Beginners_2_through_Blended_Learning_CEFR_A1_), spring 2022
+
+[Oral Skills in the Second National Language, Swedish (CEFR B1)](https://studies.helsinki.fi/courses/cu/hy-CU-117995700-2021-08-01), spring 2023
 
 ### Mandatory-for-all Courses
 
@@ -59,6 +69,9 @@ e-mail: minerva.ciccarese@helsinki.fi.
 [Student's Digital Skills: Orientation](https://studies.helsinki.fi/courses/cu/hy-CU-134743242-2020-08-01/DIGI-A/Student_s_digital_skills_orientation), fall 2021
 
 [Student's Digital Skills: Advanced Skills](https://studies.helsinki.fi/courses/cu/hy-CU-134743553-2020-08-01/DIGI-B/Student_s_digital_skills_advanced_skills), fall 2022
+
+[Academic reading and writing skills](https://studies.helsinki.fi/courses/cu/hy-CU-123935414-2020-08-01), spring 2023
+
 
 ## Projects
 
@@ -70,11 +83,13 @@ A small project for the Command Line Tools for Linguists course, where various c
 
 This website, also developed for the Command Line Tools for Linguists course. It gives the visitors a glimpse of my work and academic life.
 
+### [Tiramisu Search Engine](https://github.com/rrimpila/tiramisu.git), spring 2023
+
+An NLP search engine my group developed during the NLP application course. The Tiramisu search engine finds fanworks matching to the user's search query from our defined dataset of fanworks. Tiramisu dataset contains a collection of 500 of the most popular fanworks from works in English that have been published, updated, or edited between between the years 2018 through 2022.
+
 ## Misc. 
 
-I have nothing of mine that I would particularly like to show, besides my [instagram account](https://www.instagram.com/ciccmin), perhaps.
+If you want to see something cool, check out this [skating cat](https://www.youtube.com/watch?v=vYyUb_MI7to).
 
-If you want to see something cooler, have a [skating cat](https://www.youtube.com/watch?v=vYyUb_MI7to).
-
-## Take a look at my [CV](/assets/documents/CV_2022.pdf)!
+## Take a look at my [CV](/assets/documents/CV_2023.pdf)!
 
